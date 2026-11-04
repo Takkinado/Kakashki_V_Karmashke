@@ -1,0 +1,18 @@
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК сборка.csproj.AssemblyReference.cache
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\bin\Debug\Database31.accdb
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\bin\Debug\ПК сборка.exe.config
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\bin\Debug\ПК сборка.exe
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\bin\Debug\ПК сборка.pdb
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Form1.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Properties.Resources.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК сборка.csproj.GenerateResource.cache
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК сборка.csproj.CoreCompileInputs.cache
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК сборка.exe
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК сборка.pdb
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Менеджеры.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Заказы.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Комплектующие.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Покупатели.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Сборщики.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Служба_Доставки.resources
+C:\Users\rassv\OneDrive\Desktop\Новая папка (2)\ПК сборка\ПК сборка\obj\Debug\ПК_сборка.Состав_Конфига.resources
